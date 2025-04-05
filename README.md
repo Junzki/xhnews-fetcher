@@ -5,4 +5,5 @@ Fetches daily focus from Chinese XinHua News.
 ## Licence
 GPLv3
 
-Notice: Please do not upload any test cases due to copyright concern.
+Notice: This project is designed for education and demonstration use. Please follow local copyright restrictions.  
+Contributing: Please do not upload any test cases due to copyright concerns.
