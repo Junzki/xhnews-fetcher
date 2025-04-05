@@ -17,7 +17,7 @@ class TestFetchTodayFocus(unittest.TestCase):
 
     def setUp(self) -> None:
         self.xh = XHNewsRequest()
-        self.news_detail_case = CASES_DIR / 'news_detail_case.html'
+        self.news_detail_case = CASES_DIR / 'news-detail-case.html'
 
         if not os.path.exists(self.news_detail_case):
             self.init_news_detail_case()

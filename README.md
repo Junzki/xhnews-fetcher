@@ -2,6 +2,10 @@
 
 Fetches daily focus from Chinese XinHua News.
 
+# Requirements
+- Python 3.9+
+- Requirements from `requirements.txt`
+
 ## Licence
 GPLv3
 
